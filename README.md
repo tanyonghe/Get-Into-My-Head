@@ -82,5 +82,5 @@ So here's a good idea - using the immersive VR to better understand the difficul
 
 ## Other References
 
-* [Project Repository] (https://github.com/x3tsunayh/cpsg-2018)
-* [Pitch Slide Deck] (https://drive.google.com/file/d/1EJDVtYmAwIXyUYJ9KvjxLnttqf-nhD0q/view)
+* [Project Repository](https://github.com/x3tsunayh/cpsg-2018)
+* [Pitch Slide Deck](https://drive.google.com/file/d/1EJDVtYmAwIXyUYJ9KvjxLnttqf-nhD0q/view)
